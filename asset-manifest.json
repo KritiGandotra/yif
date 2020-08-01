@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.32f1795b.chunk.css",
+    "main.js": "/static/js/main.f0aacb64.chunk.js",
+    "main.js.map": "/static/js/main.f0aacb64.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e38d7b65.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e38d7b65.js.map",
+    "static/css/2.75c4ecca.chunk.css": "/static/css/2.75c4ecca.chunk.css",
+    "static/js/2.00460214.chunk.js": "/static/js/2.00460214.chunk.js",
+    "static/js/2.00460214.chunk.js.map": "/static/js/2.00460214.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ef0d9542b5954a286436b34d4bcf20f1.js": "/precache-manifest.ef0d9542b5954a286436b34d4bcf20f1.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.75c4ecca.chunk.css.map": "/static/css/2.75c4ecca.chunk.css.map",
+    "static/css/main.32f1795b.chunk.css.map": "/static/css/main.32f1795b.chunk.css.map",
+    "static/js/2.00460214.chunk.js.LICENSE.txt": "/static/js/2.00460214.chunk.js.LICENSE.txt",
+    "static/media/MythsInfographic-(002)_800.jpg": "/static/media/MythsInfographic-(002)_800.df4ce409.jpg",
+    "static/media/blog-august-1200x480.jpg": "/static/media/blog-august-1200x480.9cbe43fb.jpg",
+    "static/media/download.png": "/static/media/download.14fda528.png",
+    "static/media/ehealth-tech.png": "/static/media/ehealth-tech.91b854f8.png",
+    "static/media/yf_logo.jpeg": "/static/media/yf_logo.3ac3f97a.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e38d7b65.js",
+    "static/css/2.75c4ecca.chunk.css",
+    "static/js/2.00460214.chunk.js",
+    "static/css/main.32f1795b.chunk.css",
+    "static/js/main.f0aacb64.chunk.js"
+  ]
+}
