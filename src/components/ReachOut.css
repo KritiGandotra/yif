@@ -1,0 +1,45 @@
+
+  .col-sm
+  {
+    text-align: center;
+    margin: 0;
+  }
+  
+  a.social:hover {
+    transform: translateY(-2px);
+  }
+  
+  a.youtube {
+    color: #2B3252;
+  }
+  
+  a.facebook {
+    color: #2B3252;
+  }
+  
+  a.twitter {
+    color: #2B3252;
+  }
+  
+  a.gmail {
+    color: #2B3252;
+  
+  }
+  
+  a.instagram {
+    color: #2B3252;
+  }
+  a.social {
+    margin: 0 1rem;
+    transition: transform 250ms;
+    display: inline-block;
+  }
+  .copywrite{
+    text-align: center;
+  }
+
+  .footer{
+    background-color: #026670;
+    color: #EDEAE5;
+    margin-top: 5%;
+  }

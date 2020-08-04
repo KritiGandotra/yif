@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Mulish:wght@200&display=swap');
 body {
-  font-family: 'Mulish', sans-serif;
+  font-family: 'Rubik';
   margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -45,4 +45,17 @@ body {
 .menu_active{
   font-weight: bold;
   border-bottom: none;
+}
+.social-container{
+  border-top: 1px solid #D3D3D3;
+  margin-top: 10%;
+  text-align: center;
+  margin-bottom:0;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+.gmail{
+  padding-top:1%;
 }

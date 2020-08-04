@@ -1,7 +1,7 @@
 import React from 'react'
 import './Home.css';
 import Card from './CardUI';
-
+import { NavLink } from 'react-router-dom';
 import img1 from "../assets/blog-august-1200x480.jpg"; 
 import person3 from '../components/yf_logo.jpeg';
 import img2 from "../assets/ehealth-tech.png";
@@ -100,10 +100,14 @@ const Home = () => {
                 <div className="row d-flex justify-content-center">
                     <div className="row d-flex justify-content-center">
                     <div className="col-sm">
-                        <Card  imgsrc={img1} title={"Campaigns"} desc={"Mental health is the level of psychological well-being or an absence of mental."} />
+                    <NavLink to="/campaigns">
+                        <Card  imgsrc={img1} title={"Campaigns"} desc={"Mental health is the level of psychological well-being or an absence of mental"} />
+                        </NavLink>
                     </div>
                     <div className="col-sm">
+                    <NavLink to="/mentalhealthservices">
                         <Card  imgsrc={img2} title={"Mental Health Services"} desc={" Mental health is the successful performance of the mental function resulting in productive activities"} />
+                        </NavLink>
                     </div>
                     </div>
                     <div className ="container-fluid nav bg bgstay">
@@ -115,12 +119,16 @@ const Home = () => {
         </div></div>
                     <div className="row d-flex justify-content-center">
                     <div className="col-sm">
+                    <NavLink to="/internships">
                         <Card  imgsrc={img4} title={"Internships"} desc={"Mental illnesses are more common than cancer, diabetes, or heart disease."} />
+                        </NavLink>
                     </div>
                    
                   
                     <div className="col-sm">
+                    <NavLink to="/webinars">
                         <Card  imgsrc={img5} title={"Webinars"} desc={"Good mental health can improve life quality whereas poor mental health can worsen it"} />
+                  </NavLink>
                     </div>
                     
                     </div>
