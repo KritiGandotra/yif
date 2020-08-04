@@ -29,7 +29,7 @@ const Home = () => {
         <div className="about1">
             <h1 className="head_about">ABOUT CELLS</h1>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas id iaculis turpis. Sed non arcu vitae lorem sagittis consequat. Praesent vel venenatis magna, nec iaculis purus. Pellentesque id mattis tellus, consequat porttitor nunc. Aenean dictum dapibus orci, nec pharetra neque fringilla ac. Vivamus id erat imperdiet, bibendum ex non, sollicitudin odio. Integer laoreet egestas lorem, sed dictum enim rutrum eu. Mauris ac finibus ante. Phasellus eget maximus augue. Proin aliquam consequat odio quis laoreet.</p>
-            <a href="something" class="button1">Learn more</a>
+            <NavLink to="/aboutcells" class="button1">Learn more</NavLink>
         </div>
     </div>
 
