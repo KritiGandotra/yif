@@ -5,7 +5,7 @@ import './campaigns.css'
 const Webinars = () => {
     return (
         <>
-        <div className="container">
+        <div className="container full_page">
             <div className="row">
                 <div className="col-sm information">
                 <h1 className="page_heading">Webinars</h1>

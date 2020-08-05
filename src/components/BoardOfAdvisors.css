@@ -9,6 +9,7 @@
     position: relative;
     animation: fadein 3s ease-in;
     animation-fill-mode: forwards;
+    padding-top: 10%;
   }
   
   @keyframes fadein{
@@ -40,11 +41,12 @@
     }
     to{
       width: 30%;
-      height: 8%;
+      height: 5%;
     }
   }
   @media(max-width: 770px){
     .teampage-heading{
+      padding-top: 25%;
       font-size: 1.4rem;
       letter-spacing: 1px;
     }
@@ -55,7 +57,7 @@
       }
       to{
         width: 30%;
-      height: 10%;
+      height: 5%;
       }
     }
 }

@@ -3,7 +3,6 @@ import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 import "../node_modules/bootstrap/dist/js/bootstrap.bundle";
 import Home from './components/Home';
 import BoardOfAdvisors from './components/BoardOfAdvisors';
-import leftpic from './components/yf_logo.jpeg';
 import Contact from './components/Contact';
 import NavBar from './components/NavBar';
 import { Switch, Route, Redirect } from 'react-router-dom';
@@ -14,6 +13,7 @@ import AboutCells from './components/AboutCells';
 import Webinars from './components/Webinars';
 import SocialFollow from './components/SocialFollow';
 import './components/ReachOut.css';
+import ScrollToTop from 'react-router-scroll-top';
 
 const App = () => {
   return (
@@ -33,6 +33,7 @@ const App = () => {
       </Switch>
 <SocialFollow />
 <p className="copywrite"> &copy; 2020 by Youth India Foundation</p>
+<ScrollToTop/>
       </>
   );
 };

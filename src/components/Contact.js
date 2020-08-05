@@ -32,12 +32,12 @@ const Contact = () => {
 
     return (
         <>
-        <div className="my-5">
+        <div>
         <h1 className="teampage-heading">Contact Us</h1>
         </div>
         <div className="container contact_div">
             <div className="row">
-                <div className="col-md-6 col-10 mx-auto">
+                <div className="col-md-6 col-10 mx-auto contact_form">
                 <form onSubmit={formSubmit}>
 
                 <div className="mb-3">
