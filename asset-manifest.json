@@ -1,31 +1,32 @@
 {
   "files": {
-    "main.css": "/yif/static/css/main.eb9cc76e.chunk.css",
-    "main.js": "/yif/static/js/main.8b63f4ee.chunk.js",
-    "main.js.map": "/yif/static/js/main.8b63f4ee.chunk.js.map",
+    "main.css": "/yif/static/css/main.d2eb491c.chunk.css",
+    "main.js": "/yif/static/js/main.71312a47.chunk.js",
+    "main.js.map": "/yif/static/js/main.71312a47.chunk.js.map",
     "runtime-main.js": "/yif/static/js/runtime-main.a843fded.js",
     "runtime-main.js.map": "/yif/static/js/runtime-main.a843fded.js.map",
     "static/css/2.75c4ecca.chunk.css": "/yif/static/css/2.75c4ecca.chunk.css",
-    "static/js/2.db62552c.chunk.js": "/yif/static/js/2.db62552c.chunk.js",
-    "static/js/2.db62552c.chunk.js.map": "/yif/static/js/2.db62552c.chunk.js.map",
+    "static/js/2.0d7d499f.chunk.js": "/yif/static/js/2.0d7d499f.chunk.js",
+    "static/js/2.0d7d499f.chunk.js.map": "/yif/static/js/2.0d7d499f.chunk.js.map",
     "index.html": "/yif/index.html",
-    "precache-manifest.4b1de82f3a9a742bc41ef182e9ac7224.js": "/yif/precache-manifest.4b1de82f3a9a742bc41ef182e9ac7224.js",
+    "precache-manifest.73ee59648eb5df8389f446fa16a47d49.js": "/yif/precache-manifest.73ee59648eb5df8389f446fa16a47d49.js",
     "service-worker.js": "/yif/service-worker.js",
     "static/css/2.75c4ecca.chunk.css.map": "/yif/static/css/2.75c4ecca.chunk.css.map",
-    "static/css/main.eb9cc76e.chunk.css.map": "/yif/static/css/main.eb9cc76e.chunk.css.map",
-    "static/js/2.db62552c.chunk.js.LICENSE.txt": "/yif/static/js/2.db62552c.chunk.js.LICENSE.txt",
+    "static/css/main.d2eb491c.chunk.css.map": "/yif/static/css/main.d2eb491c.chunk.css.map",
+    "static/js/2.0d7d499f.chunk.js.LICENSE.txt": "/yif/static/js/2.0d7d499f.chunk.js.LICENSE.txt",
     "static/media/MythsInfographic-(002)_800.jpg": "/yif/static/media/MythsInfographic-(002)_800.df4ce409.jpg",
     "static/media/blog-august-1200x480.jpg": "/yif/static/media/blog-august-1200x480.9cbe43fb.jpg",
     "static/media/download.png": "/yif/static/media/download.14fda528.png",
     "static/media/ehealth-tech.png": "/yif/static/media/ehealth-tech.91b854f8.png",
     "static/media/podcast.jpeg": "/yif/static/media/podcast.a4b92d9a.jpeg",
-    "static/media/yf_logo.jpeg": "/yif/static/media/yf_logo.3ac3f97a.jpeg"
+    "static/media/yf_logo.jpeg": "/yif/static/media/yf_logo.3ac3f97a.jpeg",
+    "static/media/yf_logo1.png": "/yif/static/media/yf_logo1.1dc8d6c0.png"
   },
   "entrypoints": [
     "static/js/runtime-main.a843fded.js",
     "static/css/2.75c4ecca.chunk.css",
-    "static/js/2.db62552c.chunk.js",
-    "static/css/main.eb9cc76e.chunk.css",
-    "static/js/main.8b63f4ee.chunk.js"
+    "static/js/2.0d7d499f.chunk.js",
+    "static/css/main.d2eb491c.chunk.css",
+    "static/js/main.71312a47.chunk.js"
   ]
 }
