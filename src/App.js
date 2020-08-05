@@ -28,7 +28,7 @@ const App = () => {
       <Route exact path="/internships" component={Internships}/>
       <Route exact path="/webinars" component={Webinars}/>
       <Route exact path="/aboutcells" component={AboutCells}/>
-      <Redirect to="/yif"/>
+      <Redirect to="/"/>
       <Home/>
       </Switch>
 <SocialFollow />
