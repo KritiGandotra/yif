@@ -3,7 +3,7 @@ import './Home.css';
 import Card from './CardUI';
 import { NavLink } from 'react-router-dom';
 import img1 from "../assets/blog-august-1200x480.jpg"; 
-import person3 from '../components/yf_logo.jpeg';
+import person3 from '../components/yf_logo1.png';
 import img2 from "../assets/ehealth-tech.png";
 import img4 from "../assets/download.png";
 import img5 from "../assets/MythsInfographic-(002)_800.jpg";
