@@ -5,7 +5,7 @@ import './campaigns.css'
 const AboutCells = () => {
     return (
         <>
-        <div className="container">
+        <div className="container full_page">
             <div className="row">
                 <div className="col-sm information">
                 <h1 className="page_heading">About Cells</h1>
